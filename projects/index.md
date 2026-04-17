@@ -11,6 +11,7 @@ Active and archived project notes. Each project has its own file capturing goal,
 
 - [Home](../index.md)
 - [Concepts](../concepts/index.md)
+- [Methodology](../methodology/index.md)
 - [People](../people/index.md)
 - [Resources](../resources/index.md)
 - [Templates](../templates/index.md)

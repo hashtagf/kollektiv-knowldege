@@ -10,6 +10,7 @@ Welcome to the Kollektiv Obsidian-style knowledge base. This is the home node �
 ## Navigate
 
 - [Concepts](./concepts/index.md) — ideas, theories, definitions, frameworks
+- [Methodology](./methodology/index.md) — workflows for capturing, distilling, and using knowledge
 - [Projects](./projects/index.md) — active and archived project notes
 - [People](./people/index.md) — colleagues, contacts, stakeholders
 - [Resources](./resources/index.md) — articles, books, links, references
@@ -19,6 +20,7 @@ Welcome to the Kollektiv Obsidian-style knowledge base. This is the home node �
 
 ## Start reading
 
+- [Methodology MOC](./maps/methodology.md) — Second Brain, PARA, progressive summarization, AI integration
 - [Knowledge Management MOC](./maps/knowledge-management.md) — how the vault thinks about capturing and linking
 - [Frontend MOC](./maps/frontend.md) — components, accessibility, the browser
 - [Design System MOC](./maps/design-system.md) — tokens and the design/engineering contract

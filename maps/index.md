@@ -13,6 +13,7 @@ A **Map of Content** (MOC) is a hand-curated hub note for a topic area. It doesn
 
 - [Home](../index.md)
 - [Concepts](../concepts/index.md)
+- [Methodology](../methodology/index.md)
 - [Projects](../projects/index.md)
 - [People](../people/index.md)
 - [Resources](../resources/index.md)
@@ -23,6 +24,7 @@ A **Map of Content** (MOC) is a hand-curated hub note for a topic area. It doesn
 
 ### Topic MOCs
 
+- [Methodology](./methodology.md) — workflows: Second Brain, PARA, progressive summarization, AI integration
 - [Knowledge Management](./knowledge-management.md) — how we capture, link, and retrieve what we know
 - [Frontend](./frontend.md) — components, accessibility, rendering, the browser
 - [Design System](./design-system.md) — tokens, primitives, contracts between design and engineering

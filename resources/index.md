@@ -11,6 +11,7 @@ Articles, books, videos, papers, links, tools, and other external references wor
 
 - [Home](../index.md)
 - [Concepts](../concepts/index.md)
+- [Methodology](../methodology/index.md)
 - [Projects](../projects/index.md)
 - [People](../people/index.md)
 - [Tags](../tags/index.md)
@@ -25,9 +26,11 @@ Copy [templates/resource-template.md](../templates/resource-template.md) into th
 
 ### Books
 
-- [How to Take Smart Notes](./how-to-take-smart-notes.md) — Sönke Ahrens; the book most of this vault's note-taking conventions come from
+- [How to Take Smart Notes](./how-to-take-smart-notes.md) — Sönke Ahrens; the source for the zettelkasten side of the vault
+- [Building a Second Brain](./building-a-second-brain.md) — Tiago Forte; the source for CODE, PARA, and progressive summarization
 
 ## See also
 
 - [Knowledge Management MOC](../maps/knowledge-management.md)
+- [Methodology MOC](../maps/methodology.md)
 - [#resource](../tags/resource.md)

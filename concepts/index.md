@@ -10,6 +10,7 @@ Ideas, theories, definitions, mental models, and frameworks. Each concept is a s
 ## Navigate
 
 - [Home](../index.md)
+- [Methodology](../methodology/index.md)
 - [Projects](../projects/index.md)
 - [People](../people/index.md)
 - [Resources](../resources/index.md)
@@ -37,5 +38,6 @@ Copy [templates/concept-template.md](../templates/concept-template.md) into this
 ## See also
 
 - [Knowledge Management MOC](../maps/knowledge-management.md)
+- [Methodology MOC](../maps/methodology.md) — workflows that build on these concepts
 - [Frontend MOC](../maps/frontend.md)
 - [Design System MOC](../maps/design-system.md)
