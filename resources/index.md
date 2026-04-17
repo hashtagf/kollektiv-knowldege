@@ -13,6 +13,8 @@ Articles, books, videos, papers, links, tools, and other external references wor
 - [Concepts](../concepts/index.md)
 - [Projects](../projects/index.md)
 - [People](../people/index.md)
+- [Tags](../tags/index.md)
+- [Maps of Content](../maps/index.md)
 - [Templates](../templates/index.md)
 
 ## Create a new resource note
@@ -21,6 +23,11 @@ Copy [templates/resource-template.md](../templates/resource-template.md) into th
 
 ## Contents
 
-<!-- - [Building a Second Brain — Tiago Forte](./building-a-second-brain.md) -->
+### Books
 
-_No resource notes yet._
+- [How to Take Smart Notes](./how-to-take-smart-notes.md) — Sönke Ahrens; the book most of this vault's note-taking conventions come from
+
+## See also
+
+- [Knowledge Management MOC](../maps/knowledge-management.md)
+- [#resource](../tags/resource.md)

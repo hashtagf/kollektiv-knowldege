@@ -13,7 +13,20 @@ Welcome to the Kollektiv Obsidian-style knowledge base. This is the home node �
 - [Projects](./projects/index.md) — active and archived project notes
 - [People](./people/index.md) — colleagues, contacts, stakeholders
 - [Resources](./resources/index.md) — articles, books, links, references
+- [Tags](./tags/index.md) — the "group by tag" view of the vault
+- [Maps of Content](./maps/index.md) — hand-curated hubs for major topics
 - [Templates](./templates/index.md) — starter notes for new entries
+
+## Start reading
+
+- [Knowledge Management MOC](./maps/knowledge-management.md) — how the vault thinks about capturing and linking
+- [Frontend MOC](./maps/frontend.md) — components, accessibility, the browser
+- [Design System MOC](./maps/design-system.md) — tokens and the design/engineering contract
+
+## Vault meta
+
+- [Graph view](./maps/graph-view.md) — how to read the vault as a graph
+- [Link maintenance](./maps/link-maintenance.md) — manual broken-link procedures
 
 ## How to use this vault
 
