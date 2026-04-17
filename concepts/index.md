@@ -13,6 +13,8 @@ Ideas, theories, definitions, mental models, and frameworks. Each concept is a s
 - [Projects](../projects/index.md)
 - [People](../people/index.md)
 - [Resources](../resources/index.md)
+- [Tags](../tags/index.md)
+- [Maps of Content](../maps/index.md)
 - [Templates](../templates/index.md)
 
 ## Create a new concept
@@ -21,7 +23,19 @@ Copy [templates/concept-template.md](../templates/concept-template.md) into this
 
 ## Contents
 
-<!-- Add links to concept notes here, e.g.: -->
-<!-- - [Zettelkasten method](./zettelkasten-method.md) -->
+### Knowledge management
 
-_No concepts yet. Add the first one using the [concept template](../templates/concept-template.md)._
+- [Zettelkasten method](./zettelkasten-method.md) — atomic, linked notes as a thinking system
+- [Evergreen notes](./evergreen-notes.md) — notes tended over years, not discarded after one use
+
+### Frontend & design system
+
+- [Component-driven development](./component-driven-development.md) — build UIs bottom-up from isolated components
+- [Accessibility first](./accessibility-first.md) — treat a11y as a default in every component
+- [Design tokens](./design-tokens.md) — named, themeable values as the atoms of a design system
+
+## See also
+
+- [Knowledge Management MOC](../maps/knowledge-management.md)
+- [Frontend MOC](../maps/frontend.md)
+- [Design System MOC](../maps/design-system.md)
