@@ -32,8 +32,10 @@ Key points, in our own words:
 ## Related
 
 - Concepts: [Zettelkasten method](../concepts/zettelkasten-method.md), [Evergreen notes](../concepts/evergreen-notes.md)
+- Methodology: [Second Brain](../methodology/second-brain.md), [CODE method](../methodology/code-method.md), [Knowledge capture workflow](../methodology/knowledge-capture-workflow.md)
+- Other resources: [Building a Second Brain](./building-a-second-brain.md) — the *workflow* companion to this *thinking* book
 - Projects: [Kollektiv Knowledge Base](../projects/kollektiv-knowledge-base.md)
-- Maps: [Knowledge Management MOC](../maps/knowledge-management.md)
+- Maps: [Knowledge Management MOC](../maps/knowledge-management.md), [Methodology MOC](../maps/methodology.md)
 
 ## Backlinks
 

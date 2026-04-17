@@ -11,6 +11,7 @@ Colleagues, stakeholders, contacts, collaborators, and external partners. One no
 
 - [Home](../index.md)
 - [Concepts](../concepts/index.md)
+- [Methodology](../methodology/index.md)
 - [Projects](../projects/index.md)
 - [Resources](../resources/index.md)
 - [Templates](../templates/index.md)

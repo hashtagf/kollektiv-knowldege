@@ -10,25 +10,37 @@ An Obsidian-style knowledge base for the Kollektiv team. Plain markdown files, o
 .
 ├── index.md              # vault home — main navigation
 ├── README.md             # this file
-├── concepts/             # ideas, theories, definitions, frameworks
+├── concepts/             # ideas, theories, definitions, frameworks (atomic)
 │   └── index.md
-├── projects/             # active & archived projects
+├── methodology/          # end-to-end workflows: Second Brain, PARA, AI integration
+│   └── index.md
+├── projects/             # active & archived projects (PARA: P)
 │   └── index.md
 ├── people/               # colleagues, stakeholders, contacts
 │   └── index.md
-├── resources/            # articles, books, links, references
+├── resources/            # articles, books, links, references (PARA: R)
 │   └── index.md
-└── templates/            # starter notes for each content type
+├── maps/                 # Maps of Content — hand-curated topic hubs
+│   └── index.md
+├── tags/                 # the "group by tag" view of the vault
+│   └── index.md
+└── templates/            # starter notes for each content type and workflow
     ├── index.md
     ├── concept-template.md
     ├── project-template.md
     ├── person-template.md
     ├── resource-template.md
     ├── meeting-note-template.md
-    └── daily-note-template.md
+    ├── daily-note-template.md
+    ├── knowledge-capture-template.md
+    ├── progressive-summary-template.md
+    ├── weekly-review-template.md
+    └── monthly-review-template.md
 ```
 
 Each folder has its own `index.md` that lists the notes inside it and links back to the other folders — so you can navigate the whole vault without a sidebar.
+
+> **Concepts vs. methodology:** [`concepts/`](./concepts/index.md) holds *atomic ideas* (one idea per file). [`methodology/`](./methodology/index.md) holds *end-to-end workflows* — how the team actually runs the system. Start with the [Methodology MOC](./maps/methodology.md) if you're new to PKM; start with the [Knowledge Management MOC](./maps/knowledge-management.md) if you're new to the *thinking* behind it.
 
 ## How to use this vault
 

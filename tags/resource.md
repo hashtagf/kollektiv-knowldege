@@ -10,11 +10,14 @@ tags: [index, tag-page]
 ## Notes
 
 - [How to Take Smart Notes](../resources/how-to-take-smart-notes.md) — Ahrens' book on the zettelkasten method
+- [Building a Second Brain](../resources/building-a-second-brain.md) — Forte on Capture, Organise, Distil, Express
 
 ## Related tags
 
 - [note-taking](./note-taking.md)
 - [knowledge-management](./knowledge-management.md)
+- [methodology](./methodology.md)
+- [second-brain](./second-brain.md)
 
 ## Navigate
 

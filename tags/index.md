@@ -11,6 +11,7 @@ Every note in the vault declares `tags: [...]` in its frontmatter. This folder m
 
 - [Home](../index.md)
 - [Concepts](../concepts/index.md)
+- [Methodology](../methodology/index.md)
 - [Projects](../projects/index.md)
 - [People](../people/index.md)
 - [Resources](../resources/index.md)
@@ -44,6 +45,17 @@ Tags cluster into a few rough families. Reuse an existing tag before inventing a
 - [active](./active.md) — currently being worked on or maintained
 - [archived](./archived.md) — kept for reference, no longer active
 - [draft](./draft.md) — rough notes not ready for linking
+
+### Methodology tags (the *how* of the vault)
+
+- [methodology](./methodology.md) — end-to-end workflows
+- [second-brain](./second-brain.md) — the Tiago Forte framework
+- [para](./para.md) — Projects / Areas / Resources / Archive
+- [review](./review.md) — review notes and cadences
+- [capture](./capture.md) — captures still in the inbox stage
+- [ai-knowledge-work](./ai-knowledge-work.md) — LLM-assisted knowledge work
+- [llm](./llm.md) — large language models, provider-agnostic
+- [claude](./claude.md) — Claude-specific notes
 
 ### Topic tags (subject-matter clusters — extend as the vault grows)
 

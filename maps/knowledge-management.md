@@ -13,15 +13,31 @@ If you're new to the vault, read this page first. It lays out the handful of ide
 
 - [Zettelkasten method](../concepts/zettelkasten-method.md) — the underlying system: atomic notes, densely linked, emerging structure
 - [Evergreen notes](../concepts/evergreen-notes.md) — the *quality bar* for a note once it graduates from capture
+- [Second Brain](../methodology/second-brain.md) — the workflow layer on top of the zettelkasten
 
 ## Core concepts
 
 - [Zettelkasten method](../concepts/zettelkasten-method.md) — workflow
 - [Evergreen notes](../concepts/evergreen-notes.md) — note quality
 
+## Methodologies
+
+These build on the concepts above. Read them in this order if you want the full *how-to*:
+
+- [Second Brain](../methodology/second-brain.md) — the umbrella framework
+- [CODE method](../methodology/code-method.md) — Capture · Organise · Distil · Express
+- [PARA method](../methodology/para-method.md) — Projects / Areas / Resources / Archive
+- [Progressive summarization](../methodology/progressive-summarization.md) — layered distillation, with examples
+- [Knowledge capture workflow](../methodology/knowledge-capture-workflow.md) — inbox → vault
+- [Daily and weekly review](../methodology/daily-weekly-review.md) — review cadences
+- [LLM Wiki methodology](../methodology/llm-wiki.md) — structuring a vault for LLM readers
+- [Claude Brain methodology](../methodology/claude-brain.md) — Claude as a long-running collaborator
+- [AI knowledge integration patterns](../methodology/ai-knowledge-integration.md) — patterns for vault-LLM integration
+
 ## Resources
 
-- [How to Take Smart Notes](../resources/how-to-take-smart-notes.md) — Sönke Ahrens; the book most of our conventions come from
+- [How to Take Smart Notes](../resources/how-to-take-smart-notes.md) — Sönke Ahrens; the source for the zettelkasten side
+- [Building a Second Brain](../resources/building-a-second-brain.md) — Tiago Forte; the source for CODE, PARA, and progressive summarization
 
 ## Applied in the vault
 
@@ -37,6 +53,7 @@ If you're new to the vault, read this page first. It lays out the handful of ide
 
 ## Related maps
 
+- [Methodology MOC](./methodology.md) — workflow-level companion to this conceptual map
 - [Graph view](./graph-view.md) — how the links in this vault show up visually
 - [Link maintenance](./link-maintenance.md) — keeping the link graph honest over time
 

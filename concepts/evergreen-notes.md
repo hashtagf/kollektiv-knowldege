@@ -28,6 +28,11 @@ A meeting note that says *"team agreed on TS for the design system"* is fleeting
 
 - [Zettelkasten method](./zettelkasten-method.md) — the workflow evergreens live inside
 
+## Related methodologies
+
+- [Progressive summarization](../methodology/progressive-summarization.md) — the layered distillation that turns a fleeting capture into an evergreen
+- [CODE method](../methodology/code-method.md) — *Distil* is essentially the evergreen-ification of a fleeting capture
+
 ## Sources
 
 - [How to Take Smart Notes](../resources/how-to-take-smart-notes.md)

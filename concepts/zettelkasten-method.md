@@ -29,6 +29,12 @@ You read [How to Take Smart Notes](../resources/how-to-take-smart-notes.md) and 
 - [Evergreen notes](./evergreen-notes.md) — the *note quality* side of the same idea
 - [Component-driven development](./component-driven-development.md) — "atomic, composable units" applied to UI rather than notes
 
+## Related methodologies
+
+- [Second Brain](../methodology/second-brain.md) — workflow framework that layers on top of zettelkasten
+- [CODE method](../methodology/code-method.md) — the Capture-Organise-Distil-Express stages we use to feed the slip-box
+- [Knowledge capture workflow](../methodology/knowledge-capture-workflow.md) — what we do *day-to-day* to keep one healthy
+
 ## Applied in projects
 
 - [Kollektiv Knowledge Base](../projects/kollektiv-knowledge-base.md) — the vault you're reading is a zettelkasten
